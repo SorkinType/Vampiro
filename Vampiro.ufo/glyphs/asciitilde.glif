@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde" format="1">
+  <advance width="620"/>
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="58" y="301" type="line"/>
+      <point x="85" y="304"/>
+      <point x="106" y="304" type="qcurve"/>
+      <point x="150" y="304"/>
+      <point x="215" y="267"/>
+      <point x="273" y="222"/>
+      <point x="334" y="185"/>
+      <point x="374" y="185" type="qcurve" name="hr01"/>
+      <point x="394" y="185"/>
+      <point x="431" y="190"/>
+      <point x="452" y="195" type="qcurve"/>
+      <point x="488" y="308" type="line"/>
+      <point x="462" y="305"/>
+      <point x="440" y="305" type="qcurve"/>
+      <point x="398" y="305"/>
+      <point x="334" y="342"/>
+      <point x="274" y="387"/>
+      <point x="211" y="424"/>
+      <point x="171" y="424" type="qcurve" name="hr02"/>
+      <point x="151" y="424"/>
+      <point x="115" y="418"/>
+      <point x="94" y="414" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="185" width="120" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="304" width="120" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

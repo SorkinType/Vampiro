@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="s" format="1">
+  <advance width="581"/>
+  <unicode hex="0073"/>
+  <outline>
+    <contour>
+      <point x="9" y="56" type="qcurve" name="hr00"/>
+      <point x="35" y="35"/>
+      <point x="94" y="-8"/>
+      <point x="135" y="-35" type="qcurve"/>
+      <point x="187" y="-28"/>
+      <point x="316" y="3"/>
+      <point x="447" y="47"/>
+      <point x="565" y="101"/>
+      <point x="607" y="131" type="qcurve"/>
+      <point x="586" y="232" type="line"/>
+      <point x="544" y="210"/>
+      <point x="448" y="171"/>
+      <point x="398" y="154" type="qcurve"/>
+      <point x="374" y="176"/>
+      <point x="325" y="219"/>
+      <point x="279" y="258"/>
+      <point x="241" y="295"/>
+      <point x="229" y="313" type="qcurve"/>
+      <point x="246" y="334"/>
+      <point x="288" y="373"/>
+      <point x="331" y="404"/>
+      <point x="369" y="425"/>
+      <point x="382" y="430" type="qcurve"/>
+      <point x="379" y="418"/>
+      <point x="366" y="389"/>
+      <point x="351" y="357"/>
+      <point x="334" y="327"/>
+      <point x="326" y="315" type="qcurve"/>
+      <point x="433" y="235" type="line"/>
+      <point x="442" y="251"/>
+      <point x="465" y="293"/>
+      <point x="488" y="340"/>
+      <point x="507" y="391"/>
+      <point x="513" y="415" type="qcurve"/>
+      <point x="353" y="544" type="line"/>
+      <point x="315" y="533"/>
+      <point x="228" y="485"/>
+      <point x="146" y="421"/>
+      <point x="76" y="348"/>
+      <point x="56" y="312" type="qcurve"/>
+      <point x="69" y="293"/>
+      <point x="116" y="245"/>
+      <point x="172" y="193"/>
+      <point x="232" y="138"/>
+      <point x="258" y="112" type="qcurve"/>
+      <point x="230" y="105"/>
+      <point x="184" y="95"/>
+      <point x="167" y="93" type="qcurve"/>
+      <point x="141" y="110"/>
+      <point x="102" y="139"/>
+      <point x="66" y="170"/>
+      <point x="29" y="207"/>
+      <point x="5" y="232" type="qcurve"/>
+      <point x="-98" y="159" type="line"/>
+      <point x="-66" y="126"/>
+      <point x="-16" y="78"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>232</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="-14" width="-21" />
+      <hstem pos="544" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
